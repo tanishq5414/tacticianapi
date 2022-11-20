@@ -7,7 +7,7 @@
     },
     {
         "rid": "0",
-        "title": "main function",
+        "title": "Main Function",
         "description": "The runApp() function takes the given Widget and makes it the root of the widget tree. In this example, the widget tree consists of two widgets, the Center widget and its child, the Text widget. The framework forces the root widget to cover the screen, which means the text “Hello, world” ends up centered on screen. The text direction needs to be specified in this instance; when the MaterialApp widget is used, this is taken care of for you, as demonstrated later.",
         "image": "https://www.softwebsolutions.com/wp-content/webp-express/webp-images/uploads/2020/10/flutter-app-developer.jpg.webp"
     },
@@ -19,7 +19,7 @@
     },
     {
         "rid": "1",
-        "title": "Stateful widget",
+        "title": "Stateful Widget",
         "description": "These flex widgets let you create flexible layouts in both the horizontal (Row) and vertical (Column) directions. The design of these objects is based on the web’s flexbox layout model.",
         "image": "https://www.softwebsolutions.com/wp-content/webp-express/webp-images/uploads/2020/10/flutter-app-developer.jpg.webp"
     },
