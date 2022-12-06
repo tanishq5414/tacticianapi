@@ -1,8 +1,8 @@
 [
     {
         "rid": "0",
-        "title": "Flutter Roadmap",
-        "description": "Flutter widgets are built using a modern framework that takes inspiration from React. The central idea is that you build your UI out of widgets. Widgets describe what their view should look like given their current configuration and state. When a widget’s state changes, the widget rebuilds its description, which the framework diffs against the previous description in order to determine the minimal changes needed in the underlying render tree to transition from one state to the next.",
+        "title": "Web Developer",
+        "description": "A Web Developer is a programmer who develops World Wide Web applications using a client-server model. The applications typically use HTML, CSS and JavaScript in the client, PHP, ASP.NET (C#), Python, Node.js, Go or Java in the server and HTTP for communications between client and server.",
         "image": ""
     },
     {
@@ -13,8 +13,8 @@
     },
     {
         "rid": "1",
-        "title": "Scaffold",
-        "description": "When writing an app, you’ll commonly author new widgets that are subclasses of either StatelessWidget or StatefulWidget, depending on whether your widget manages any state. A widget’s main job is to implement a build() function, which describes the widget in terms of other, lower-level widgets. The framework builds those widgets in turn until the process bottoms out in widgets that represent the underlying RenderObject, which computes and describes the geometry of the widget.",
+        title": "Data Scientist",
+        "description": "Data scientists are a new breed of analytical data expert who have the technical skills to solve complex problems – and the curiosity to explore what problems need to be solved.",
         "image": "https://www.softwebsolutions.com/wp-content/webp-express/webp-images/uploads/2020/10/flutter-app-developer.jpg.webp"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
         "rid": "2",
-        "title": "Container",
-        "description": "The Container widget lets you create a rectangular visual element. A container can be decorated with a BoxDecoration, such as a background, a border, or a shadow. A Container can also have margins, padding, and constraints applied to its size. In addition, a Container can be transformed in three dimensional space using a matrix.",
+        "title": "Game Developer",
+        "description": "Game developers, are responsible for designing and developing video games for PC, console, and mobile applications. Their job is to code the base engine from the ideas of the design team. They may also be involved in character design, level design, animation, and unit testing.",
         "image": "https://www.softwebsolutions.com/wp-content/webp-express/webp-images/uploads/2020/10/flutter-app-developer.jpg.webp"
     }
 ]
