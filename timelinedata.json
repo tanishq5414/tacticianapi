@@ -2,7 +2,7 @@
     {
         "rid": "0",
         "title": "Web Developer",
-        "description": "A Web Developer is a programmer who develops World Wide Web applications using a client-server model. The applications typically use HTML, CSS and JavaScript in the client, PHP, ASP.NET (C#), Python, Node.js, Go or Java in the server and HTTP for communications between client and server.",
+        "description": "A Web Developer is a programmer who develops World Wide Web applications using a client-server model. The applications typically use HTML, CSS and JavaScript in the client, PHP, Python, Node.js in the server and HTTP for communications between client and server.",
         "image": ""
     },
     {
