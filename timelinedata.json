@@ -29,5 +29,59 @@
         "title": "Cloud Engineer",
         "description": "A cloud engineer is an IT professional responsible for any technological duties associated with cloud computing, including design, planning, management, maintenance and support. Cloud engineer is a general term encompassing a few different roles, including: cloud architect. cloud software engineer.",
         "image": ""
+    },
+    {
+        "rid": "0",
+        "title": "HTML",
+        "description": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.",
+        "image": ""
+    },
+    {
+        "rid": "0",
+        "title": "CSS",
+        "description": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.",
+        "image": ""
+    },
+    {
+        "rid": "0",
+        "title": "JAVASCRIPT",
+        "description": "Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers. JavaScript is so popular that it's the most used programming language in the world, used as a client-side programming language by 97.0% of all websites.",
+        "image": ""
+    },
+    {
+        "rid": "0",
+        "title": "BOOTSTRAP",
+        "description": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.",
+        "image": ""
+    },
+    {
+        "rid": "0",
+        "title": "ANGULARJS",
+        "description": "AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. AngularJS's data binding and dependency injection eliminate much of the code you would otherwise have to write.",
+        "image": ""
+    }, 
+    {
+        "rid": "0",
+        "title": "REACTJS",
+        "description": "React. js is a front-end JavaScript framework developed by Facebook. To build composable user interfaces predictably and efficiently using declarative code, we use React. It's an open-source and component-based framework responsible for creating the application's view layer.",
+        "image": ""
+    },
+    {
+        "rid": "0",
+        "title": "SQL",
+        "description": "Structured Query Language, abbreviated as SQL, is a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system.",
+        "image": ""
+    },
+    {
+        "rid": "0",
+        "title": "PHP",
+        "description": "PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993 and released in 1995. The PHP reference implementation is now produced by The PHP Group.",
+        "image": ""
+    },
+    {
+        "rid": "0",
+        "title": "PYTHON",
+        "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed. It supports multiple programming paradigms, including structured, object-oriented and functional programming.",
+        "image": ""
     }
 ]
